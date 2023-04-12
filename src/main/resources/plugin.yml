@@ -1,0 +1,10 @@
+name: RagnarokShrug
+version: '${project.version}'
+main: net.ragnaroknetwork.ragnarokshrug.RagnarokShrug
+api-version: 1.8.8
+authors: [ Bloedarend ]
+description: ADD SHRUGGING TO MINECRAFT
+commands:
+  shrug:
+    description: Send a shrug message
+    usage: /shrug
